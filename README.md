@@ -1,6 +1,6 @@
-# FML-DGCN: Federated Multi-Label Learning based on Dynamic Graph Convolutional Network
+# FML-DGCN: Federated Multi-Label Learning based on Dynamic Graph Convolutional Networks
 
-Implementation of paper *"FML-DGCN: Federated Multi-Label Learning based on Dynamic Graph Convolutional Network"*
+Implementation of paper *"FML-DGCN: Federated Multi-Label Learning based on Dynamic Graph Convolutional Networks"*
 
 # Requirements
 
